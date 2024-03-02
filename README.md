@@ -15,15 +15,21 @@
     <td>
       <h4>E-commerce site</h4>
       <img src="./assets/imgs/e-commerce.png" height="250px"><br>
+      A fullstack e-commerce site made with MERN-stack<br>
       <a href="https://github.com/Sami-Juhani/Ecommerce-site">Repo</a>
     </td>
-    &nbsp;&nbsp;&nbsp;
     <td>
-      <h4>Ecommerce site</h4>
-      <img src="./assets/imgs/e-commerce.png" height="250px"><br>
-      <a href="https://github.com/Sami-Juhani/Ecommerce-site">Repo</a>
+      <h4>Another Cat Game</h4>
+      <img src="./assets/imgs/cat-game.png" height="250px"><br>
+      A fun little game made with vanilla JS<br>
+      <a href="https://github.com/Sami-Juhani/Another-Cat-Game">Repo</a>
     </td>
-    <!-- Add more projects in new <td> elements -->
+    <td>
+      <h4>3-Phase Airport Simulator</h4>
+      <img src="./assets/imgs/ap-simulation.png" height="250px" width="250px"><br>
+      A 3-phase airport simulation program made with Java<br>
+      <a href="https://github.com/Sami-Juhani/AP-Simulation-Java">Repo</a>
+    </td>
   </tr>
 </table>
 
@@ -39,6 +45,8 @@
 
 <img src="./assets/imgs/react_beginnner_cert.png" height="200" style="margin-right: 15px"/>
 
-[View certificate](./assets/certs/React%20Simplified%20-%20Beginner-certificate.pdf)
-
 ## Contact
+
+<a href="https://linkedin.com/in/samipaan"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" height="75px"/></a>
+&nbsp; | &nbsp;
+<a href="mailto:sami.paananen@gmail.com"><img align="center" src="./assets/imgs/mail.png" height="25px"/>&nbsp;sami.paananen@gmail.com</a>
