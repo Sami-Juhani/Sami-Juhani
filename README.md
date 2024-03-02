@@ -1,12 +1,19 @@
 <h1 align="center"> Sami Paananen </h1>
-<h3> Frontend developer with secret passion for backend developement and a keen interest in cloud driven solutions. Second year Information and communication technology engineering student at Metropolia UAS.</h3>
+<h3>Frontend developer with a secret passion for backend development and a keen interest in cloud-driven solutions, currently pursuing a second year Information and Communication Technology Engineering degree at Metropolia UAS equipped with a strong problem-solving mindset to conquer any challenge</h3>
 
 ## About me
 
-- Location: Finland
-- Languages: Finnish, English
-- Currently studying:
-  - NextJS and AWS
+
+  - <strong>Location:</strong> Finland  
+  - <strong>Languages:</strong> Fluent in Finnish and English  
+  - <strong>Currently studying:</strong> NextJS, Docker, and AWS  
+  - <strong>Education:</strong> Second-year Information and Communication Technology Engineering student at Metropolia UAS, specializing in software development  
+  - <strong>Interests:</strong> Frontend and backend development, cloud computing, problem-solving  
+  - <strong>Passions:</strong> Exploring innovative technologies, building scalable solutions, contributing to open-source projects  
+  - <strong>Skills:</strong> Proficient in HTML, CSS, JavaScript, React, Node.js, Git, familiarity with databases (e.g., MongoDB, MySQL), experience with agile methodologies  
+  - <strong>Projects:</strong> Currently working on a music recommendation system inspired by spotify. Working on the backend with python and the frontend with React. [Repo](https://github.com/Sami-Juhani/music-recommendation-system)
+  - <strong>Goals:</strong> Striving to become a versatile fullstack software engineer capable of tackling complex challenges and making a meaningful impact in the tech industry  
+
 
 ## Projects
 
