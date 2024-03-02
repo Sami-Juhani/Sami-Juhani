@@ -33,7 +33,7 @@
   </tr>
 </table>
 
-#### For more information about my projects check my site [HERE]("https://samipaan.com/portfolio")
+<h3 align="center">For more information about my projects check my site <a href="https://samipaan.com/portfolio">HERE</a></h4>
 
 ## Languages & Tools
 
